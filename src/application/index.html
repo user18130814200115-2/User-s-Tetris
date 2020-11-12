@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+    <meta name="theme-color" content="#ff9900">
+    <title>User's Tetris</title>
+    <meta name="defaultLanguage" content="en-US">
+    
+    <link href="assets/css/main.css" rel="stylesheet">
+    
+  </head>
+  <body>
+	<header id="title">
+        <h1 id="title-text">User's Tetris</h1>
+    </header>
+    <div class="container" id="app">
+	<canvas id="tetris" width="120" height="240"></canvas>
+	<div class="score">
+        	Score <div id="score">0</div>
+        	<canvas id="hold" width="36" height="36"></canvas>
+    	</div>
+	<div id="navigator">
+        	<span id="left">Pause</span><span id="middle"></span><span id="right">Restart</span>
+        </div>
+    </div>
+    	<script type="text/javascript" src="assets/js/pieces.js"></script>
+	<script type="text/javascript" src="assets/js/tetris.js"></script>
+  </body>
+</html>

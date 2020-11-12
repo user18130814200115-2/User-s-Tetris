@@ -1,0 +1,16 @@
+{
+	"name":"User's Tetris",
+	"description":"Create homescreen shortcuts to websites and more (?)",
+	"launch_path":"/index.html",
+	"type":"web",
+	"default_locale":"en-US",
+	"permissions":{"softkey":{}},
+	"theme_color":"#20afcc",
+	"icons":{
+		"56":"/assets/icons/icon-56-56.png",
+		"112":"/assets/icons/icon-112-112.png"},
+	"chrome":{"statusbar":"overlap"},
+	"orientation":"default",
+	"version":"1",
+	"cursor": false
+}

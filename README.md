@@ -1,5 +1,5 @@
 # User-s-Tetris
-One-screen tetris player for KaiOS
+One-screen tetris player for KaiOS, A web-version for PC browsers is also avaiable at [my website](https://twester.tk/tetris.html)
 
 ## Install
 

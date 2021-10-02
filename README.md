@@ -1,5 +1,5 @@
 # User-s-Tetris
-One-screen tetris player for KaiOS, A web-version for PC browsers is also avaiable at [my website](https://twester.tk/tetris.html)  
+One-screen tetris player for KaiOS, A web-version for PC browsers is also avaiable at [my website](https://wester.digital/tetris.html)  
 ![screenshot](2020-11-12-22-27-39.png)
 
 ## Install
@@ -17,6 +17,6 @@ The app is distributed in OmniSD/Gerda package format. Just download the latest 
 
 # Donation
 Any and all donations are very much appreciated, but no one should ever feel obligated to donate.
-Donations go trough [my website](https://twester.tk/ssg/donations.html)
+Donations go trough [my website](https://wester.digital/ssg/donations.html)
 
 Everything is apreiciated

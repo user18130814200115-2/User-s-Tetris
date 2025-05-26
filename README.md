@@ -1,3 +1,10 @@
+# Migrated
+
+This repository has been migrated to
+[codeberg](https://codeberg.org/User18130814200115/userstetris). The GitHub version
+is now archived and will no-longer receive updates.
+
+
 # User-s-Tetris
 One-screen tetris player for KaiOS.  
 ![screenshot](2020-11-12-22-27-39.png)
